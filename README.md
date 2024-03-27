@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hi there 👋, I'm Muhammad Bilal
 
 I'm an Electrical Engineer from Ghulam Ishaq Khan Institute of Engineering Sciences, with a focus on Embedded Systems and IoT. I have professional experience in designing and implementing embedded systems, and I'm passionate about automation, firmware development, and product design.
