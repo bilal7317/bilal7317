@@ -11,11 +11,6 @@ I'm an Electrical Engineer from Ghulam Ishaq Khan Institute of Engineering Scien
 - Chip Design Program at Knowledge Streams, Lahore, Pakistan (February 2024 – Present)
 - Embedded Systems Engineer at Machadev, Islamabad, Pakistan (April 2023 – February 2024)
 - Junior IoT R&D Engineer at Veevo Tech, Islamabad, Pakistan (June 2022 – August 2023)
-- Intern Marketing PD Private Sales at Pakistan Elektronics, Lahore, Pakistan (June 2021 – July 2021)
-
-## 🎯 Internships
-
-- Intern Electronics Engineer at Robspire, Swabi, Pakistan (June 2019 – August 2019)
 
 ## 🏆 Honours and Awards
 
