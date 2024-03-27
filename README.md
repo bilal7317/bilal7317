@@ -46,8 +46,22 @@ I'm an Electrical Engineer from Ghulam Ishaq Khan Institute of Engineering Scien
 
 ## 📫 How to reach me
 
-- Email: muhammadbilal7317@gmail.com
-- LinkedIn: www.linkedin.com/in/muhammad-bilal7317
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/muhammad-bilal7317">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<!-- GitHub -->
+<a href="https://github.com/bilal7317">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<!-- Email -->
+<a href="mailto:muhammadbilal7317@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+
 
 
 
