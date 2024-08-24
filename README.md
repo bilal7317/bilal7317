@@ -8,7 +8,8 @@ I'm an Electrical Engineer from Ghulam Ishaq Khan Institute of Engineering Scien
 
 ## 💼 Professional Experience
 
-- Chip Design Program at Knowledge Streams, Lahore, Pakistan (February 2024 – Present)
+- RTL Design Engineer at NCDC (NUST Chip Design Center), Islamabad, Pakistan (June 2024 – Present)
+- Chip Design Program at Knowledge Streams, Lahore, Pakistan (February 2024 – May 2024)
 - Embedded Systems Engineer at Machadev, Islamabad, Pakistan (April 2023 – February 2024)
 - Junior IoT R&D Engineer at Veevo Tech, Islamabad, Pakistan (June 2022 – August 2023)
 
@@ -28,13 +29,14 @@ I'm an Electrical Engineer from Ghulam Ishaq Khan Institute of Engineering Scien
 
 ## 🛠 Technical Skills
 
+- Verilog, System Verilog, Bash Scripting, Git, RISC-V, OpenLane2
 - PCB Designing, Power Electronics, Circuit Designing, Schematics Reading
 - Eagle CAD, Easy EDA
 - C, FreeRTOS, BLE, WiFi, ESP-IDF, NRF
 
 ## 🌱 Interests
 
-- Automation, Firmware Development, Problem Solving
+- ASIC, RTL Design, Design Verification, Problem Solving
 - Embedded Systems, R&D, IoT, Product Design and Development
 
 ## 📫 How to reach me
